@@ -96,7 +96,10 @@ This is the breakdown of the most demanded skills for the top 10 highest paying 
 - **SQL** is tied with Tableau at 3.
 
 
-![skills for top paying jobs](asset\output_2.png)
+![output_2](https://github.com/user-attachments/assets/a29491b2-eb5e-45ce-a836-fe0155f9ec1d)
+
+
+![skills for top paying jobs]()
 *Bar graph visualising the count of skills for top 10 paying data analysts jobs in the UK in 2023; The graph was generated using Matplotlib on Python using a code written by ChatGPT for my SQL query results*
 
 
