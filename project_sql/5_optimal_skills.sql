@@ -70,4 +70,4 @@ GROUP BY
     skills_dim.skill_id, skills_dim.skills
 ORDER BY   
     demand_count DESC, avg_salary DESC
-LIMIT 20
+LIMIT 10
