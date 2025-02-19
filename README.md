@@ -230,6 +230,20 @@ These are the most optimal skills for Data Analysts in the UK in 2023:
 - **Business Intelligence and Visualisation Tools:** Tableau and Power BI are also in high demand, with counts of 5 and 3, and average salaries of $78,428 and 74,563. This highlights the critical and valuable role of data business intelligence and data visualisaion in deriving actionale insights from data.
 
 
-# Insight
+# What I Learned
+Through this project, I developed my SQL skills to high level. 
+
+- **Complex Query Crafting:** Mastered the act of Advanced SQL, merging tables and using WITH clauses for high-level temporary table manipulation. 
+- **Data Aggregation:** Proficient use of GROUP BY for turning aggregate functions like COUNT () and AVG () into my frequent data-summarisers.
+- **Analytical Skills:**  I developed advanced critical thinking skills and was able to turn questions into actionable, insightful SQL queries.
+
 
 # Conclusions
+### insights
+1. **Top-Paying Data Analyst Jobs**: Highest paying Data Analyst jobs in the UK offer wide range of salary, with the highest at $180,000.
+2. **Skills for Top-Paying Jobs**: High-paying Data Analyst jobs in the UK require advance proficiency, mostly in Python and Excel, and to some extent, SQL and Tableau.
+3. **Most In-Demand Skills**: SQL is the most demanded skill in the UK's Data analyst job market, thus making it essential for job seekers.
+4. **Skills with Higher Salaries**: Software Development and Deployment Proficiency tools like Flow and Shell are associated with highest average salries, indicating a premium on crossover skills.
+5. **Optimal Skills for Job Market Value**: Excel and Python are the most optimal skills as they lead when demand and average salaries are considered. Hence, data analysts must learn these skills to maximise their value.
+
+
