@@ -50,7 +50,7 @@ Findings for the top data analysts job in the UK in 2023:
 - **Diverse Employers:** Companies like Deutsche Bank, Shell, and Syngenta Group are among the highest paying, showing a broad interest across industries.
 - **Job Title Variety:** High diversity in job title, from Market Data Lead Analyst to Global IT Data Analytics Solutions Expert, reflecting varied roles and specialisations within data analytics.
 
-![Top Paying Roles](asset\output.png)
+![output](https://github.com/user-attachments/assets/2e2da651-0fd1-46a8-b55f-59a5ecfd733d)
 *Bar graph visualising the salary for the top 10 salaries for data analysts in the UK in 2023; The graph was generated using Matplotlib on Python using a code written by ChatGPT for my SQL query results*
 
 ### 2. Skills for Top Paying Jobs
@@ -96,7 +96,7 @@ This is the breakdown of the most demanded skills for the top 10 highest paying 
 - **SQL** is tied with Tableau at 3.
 
 
-![skills for top paying jobs](asset\output_2.png)
+![output_2](https://github.com/user-attachments/assets/a29491b2-eb5e-45ce-a836-fe0155f9ec1d)
 *Bar graph visualising the count of skills for top 10 paying data analysts jobs in the UK in 2023; The graph was generated using Matplotlib on Python using a code written by ChatGPT for my SQL query results*
 
 
@@ -247,3 +247,4 @@ Through this project, I developed my SQL skills to high level.
 5. **Optimal Skills for Job Market Value**: Excel and Python are the most optimal skills as they lead when demand and average salaries are considered. Hence, data analysts must learn these skills to maximise their value.
 
 
+# Conclusions
