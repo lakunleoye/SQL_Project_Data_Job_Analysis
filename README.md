@@ -247,4 +247,3 @@ Through this project, I developed my SQL skills to high level.
 5. **Optimal Skills for Job Market Value**: Excel and Python are the most optimal skills as they lead when demand and average salaries are considered. Hence, data analysts must learn these skills to maximise their value.
 
 
-# Conclusions
